@@ -12,7 +12,7 @@ The examples below use websockets instead of classic RESTful API endpoints as th
 
 #### Requirements
 - Some Javascript knowledge (Node or Browser)
-- Socket.io 4.6.1
+- Socket.io 4.6.7
 
 #### Setup
 
